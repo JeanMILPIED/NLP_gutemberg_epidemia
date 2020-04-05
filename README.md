@@ -2,9 +2,9 @@
 consolidating databases for a future NLP project
 
 ## STEP1: database
-I have extracted and consolidated a databse with all the french books and their text (.txt file) from the gutemberg project.  
+I have extracted (by scrapping) and consolidated a database with all the french books and their text (.txt file) from the gutenberg project free library.  
 https://www.gutenberg.org/browse/languages/fr  
-The csv file is available on my github with the foolowing metrics:  
+The csv file is available on my github with the following metrics that have been extracted:  
 - 4117 ebooks
 - 1474 authors
 - 22 authors have more than 20 books in the database like Sand, Dumas, Verne, Maupassant, Zola, Hugo, Daudet
@@ -18,3 +18,9 @@ The csv file is available on my github with the foolowing metrics:
     18th :    214  
     19th :   2539  
     20th :    214 
+
+## STEP2: have fun!  
+I have plenty ideas to use this like these ones:  
+- look for the books that relate to an epidemy and extract the paragraphs to build an anthology of epidemy wordings  
+- build a language models based on jules verne books  
+- build a free french books recommander system  

@@ -21,6 +21,8 @@ The csv file is available on my github with the following metrics that have been
 
 ## STEP2: have fun!  
 I have plenty ideas to use this like these ones:  
-- look for the books that relate to an epidemy and extract the paragraphs to build an anthology of epidemy wordings  
+- look for the books that relate to an epidemy and extract the paragraphs to build an anthology of epidemy wordings
+    - all the tools have been built to extract all the sentences that contain a given word in a writer 'library'
+    - 2 examples have been saved for the word 'épidémie' in the books from Emile Zola et from Jules Verne
 - build a language models based on jules verne books  
 - build a free french books recommander system  

@@ -26,5 +26,11 @@ I have plenty ideas to use this like these ones:
     - 2 examples have been saved for the word 'épidémie' in the books from Emile Zola et from Jules Verne
 - build a language models based on jules verne books  (statistical trigrams)
     - this has been done with books from Verne, Zola, Hugo, Maupassant, Proust
-    - the language models are used for a "haiku" generator: you give 6 words and the system generates haikus almost publishable of the 5 authors
+    - the language models are used for a "haiku" generator: you give 6 words and the system generates haikus almost publishable of the 5 authors  
+    '''EXAMPLE:
+    Emile Zola: la lune , semée d'abeilles , mouvant rideau / un bonheur infini à trouver un lit / la joie discrète ; cette fois  
+    Jules Verne: la lune venait de tout navire / un bonheur providentiel / la joie de ces arbres sous ce feuillage spécial  
+    Guy de Maupassant: la lune versait une lumière molle / un bonheur nouveau avait commencé / la joie de me déchirer  
+    Marcel Proust: la lune pleurait et je pouvais m'approcher / un bonheur que j'eusse pu le faire / la joie d'être seul  '''
+    
 - build a free french books recommander system (not started)  

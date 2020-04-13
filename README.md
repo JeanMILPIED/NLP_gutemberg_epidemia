@@ -24,5 +24,7 @@ I have plenty ideas to use this like these ones:
 - look for the books that relate to an epidemy and extract the paragraphs to build an anthology of epidemy wordings
     - all the tools have been built to extract all the sentences that contain a given word in a writer 'library'
     - 2 examples have been saved for the word 'épidémie' in the books from Emile Zola et from Jules Verne
-- build a language models based on jules verne books  
-- build a free french books recommander system  
+- build a language models based on jules verne books  (statistical trigrams)
+    - this has been done with books from Verne, Zola, Hugo, Maupassant, Proust
+    - the language models are used for a "haiku" generator: you give 6 words and the system generates haikus almost publishable of the 5 authors
+- build a free french books recommander system (not started)  
